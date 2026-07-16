@@ -1,0 +1,6 @@
+{
+  "name": "Elextra",
+  "description": "Premium same-day delivery, food ordering, and marketplace platform serving Ghana.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
